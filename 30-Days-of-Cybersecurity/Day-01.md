@@ -1,4 +1,4 @@
-Day 01 — Beginning My Cybersecurity Journey 🔐
+Day 01 — Beginning My Cybersecurity Journey
 
 Date: 9 November 2026  
 Challenge: 30 Days of Learning  
