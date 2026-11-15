@@ -15,3 +15,5 @@ I will share my daily progress, learning experiences, reflections and practical 
 [Day 05 — Preparing for My Next Cybersecurity Class](Day-05.md)
 
 [Day 06 — Foundations of Cybersecurity and Computing I](Day-06.md)
+
+[Day 07 — Exploring Windows Security](Day-07.md)
