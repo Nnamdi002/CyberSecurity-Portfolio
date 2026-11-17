@@ -42,4 +42,50 @@ We learned four risk treatment strategies:
 | Transfer | Shift some financial consequences to another party |
 | Acceptance | Knowingly retain the risk |
 
+### Class Exercise — Online Payment Security
 
+We examined a scenario involving an online shop transmitting customers' payment information without HTTPS.
+
+- **Asset:** Customer card details
+- **Threat:** Cybercriminals intercepting information
+- **Vulnerability:** Unprotected data transmission
+- **Likelihood:** High
+- **Impact:** High
+- **Overall Risk:** High
+
+**Recommended controls:** Enable HTTPS, use a trusted payment provider and monitor suspicious transactions.
+
+This exercise demonstrated how identifying vulnerabilities and evaluating their potential impact can guide security decisions.
+
+## 4. Cybersecurity Career Pathways
+
+The class introduced three important cybersecurity specialisations:
+
+- **Blue Team (SOC Analyst):** Monitors security alerts, investigates threats and supports incident response.
+- **Red Team (Penetration Tester):** Conducts authorised security testing to identify vulnerabilities.
+- **GRC Analyst:** Develops policies, assesses risks and supports compliance with security standards.
+
+## 5. Ethics in Cybersecurity
+
+We discussed the importance of confidentiality, responsible vulnerability disclosure, legal authorisation, accountability and respecting the agreed scope of security testing.
+
+An important lesson was that cybersecurity professionals must use their technical knowledge responsibly.
+
+## Key Takeaway
+
+Cybersecurity involves more than protecting computer systems. It requires understanding how attacks occur, recognising human vulnerabilities, evaluating risks and applying appropriate security controls.
+
+## Next Steps
+
+- Revise attack vectors and social engineering techniques.
+- Practise identifying phishing warning signs.
+- Strengthen my understanding of risk assessment and treatment.
+- Continue documenting my cybersecurity learning journey.
+
+## Learning Resource
+
+TS Academy — Foundations of Cybersecurity and Computing II, Favour Onoko.
+
+---
+
+**Day 09/30 — Completed ✅**
