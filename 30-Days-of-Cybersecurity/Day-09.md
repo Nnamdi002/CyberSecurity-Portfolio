@@ -42,4 +42,4 @@ We learned four risk treatment strategies:
 | Transfer | Shift some financial consequences to another party |
 | Acceptance | Knowingly retain the risk |
 
-### Class Exercise — Online Payment
+
