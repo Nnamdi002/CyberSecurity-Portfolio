@@ -21,3 +21,5 @@ I will share my daily progress, learning experiences, reflections and practical 
 [Day 08 — Inside a Computer System](Day-08.md)
 
 [Day 09 — Cyber Threats, Social Engineering and Risk Management](Day-09.md)
+
+[Day 10 — Understanding Computer Types](Day-10.md)
