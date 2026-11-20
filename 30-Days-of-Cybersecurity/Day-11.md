@@ -50,3 +50,7 @@ Although achieving 100% was encouraging, I recognise that understanding these co
 **Learning Platform:** TS Academy  
 **Assessment Status:** Completed  
 **Final Score:** 100%
+
+## Quiz Result Screenshot
+
+[TS Academy Quiz Result — 100%](Day11%20quiz%20Result.png)
