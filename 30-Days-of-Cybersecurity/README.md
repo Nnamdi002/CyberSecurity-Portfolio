@@ -27,3 +27,5 @@ I will share my daily progress, learning experiences, reflections and practical 
 [Day 11 — Cybersecurity Knowledge Assessment (100%)](Day-11.md)
 
 [Day 12 — McKesson Healthcare Data Breach Case Study](Day-12.md)
+
+[Day 13 — Linux and Windows Fundamentals](Day-13.md)
