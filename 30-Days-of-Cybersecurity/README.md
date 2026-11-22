@@ -29,3 +29,5 @@ I will share my daily progress, learning experiences, reflections and practical 
 [Day 12 — McKesson Healthcare Data Breach Case Study](Day-12.md)
 
 [Day 13 — Linux and Windows Fundamentals](Day-13.md)
+
+[Day 14 — Windows Fundamentals 1](Day-14.md)
