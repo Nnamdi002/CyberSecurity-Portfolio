@@ -33,3 +33,5 @@ I will share my daily progress, learning experiences, reflections and practical 
 [Day 14 — Windows Fundamentals 1](Day-14.md)
 
 [Day 15 — Halfway Reflection: Building My Cybersecurity Foundation](Day-15.md)
+
+[Day 16 — Introduction to Linux Commands and File Permissions](Day-16.md)
