@@ -37,3 +37,5 @@ I will share my daily progress, learning experiences, reflections and practical 
 [Day 16 — Introduction to Linux Commands and File Permissions](Day-16.md)
 
 [Day 17 — TryHackMe: Linux Fundamentals Part 1](Day-17.md)
+
+[Day 18 — Operating Systems, Windows Basics and Security Awareness](Day-18.md)
