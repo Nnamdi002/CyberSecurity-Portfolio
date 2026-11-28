@@ -41,3 +41,5 @@ I will share my daily progress, learning experiences, reflections and practical 
 [Day 18 — Operating Systems, Windows Basics and Security Awareness](Day-18.md)
 
 [Day 19 — The Importance of Cybersecurity Awareness](Day-19.md)
+
+[Day 20 — Networking Basics I](Day-20.md)
